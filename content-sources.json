@@ -1,0 +1,37 @@
+{
+  "reviewed": "2026-09-17",
+  "pages": {
+    "index.html": "https://astir.tech/Home.aspx",
+    "about.html": "https://astir.tech/Aboutus.aspx",
+    "astir-family.html": "https://astir.tech/TheAstirFamilyofCompanies.aspx",
+    "services-solutions.html": "https://astir.tech/Services.aspx",
+    "it-services.html": "https://astir.tech/Services.aspx",
+    "it-consulting.html": "https://astir.tech/ITConsulting.aspx",
+    "application-development.html": "https://astir.tech/ApplicationDevelopment.aspx",
+    "it-products.html": "https://astir.tech/ITProducts.aspx",
+    "benefits.html": "https://astir.tech/Benefits.aspx",
+    "careers.html": "https://astir.tech/CurrentOpenings.aspx",
+    "lca-notices.html": "https://astir.tech/LCA_Applications.aspx",
+    "sponsorship-immigration.html": "https://astir.tech/SponsorshipandImmigration.aspx",
+    "h1b-sponsorship.html": "https://astir.tech/H1BVisaSponsorshipProgramaspx.aspx",
+    "tn-sponsorship.html": "https://astir.tech/TNVisaSponsorship.aspx",
+    "e3-sponsorship.html": "https://astir.tech/E3VisaSponsorshipProgram.aspx",
+    "h1b-transfer.html": "https://astir.tech/H1TransferCandidates.aspx",
+    "h4-ead.html": "https://astir.tech/H4EADCandidates.aspx",
+    "f1-training.html": "https://astir.tech/F1OPTCPTITTrainingandPlacement.aspx",
+    "l2-placement.html": "https://astir.tech/L2JobPlacementandH1Processing.aspx",
+    "contact.html": "https://astir.tech/ContactUs.aspx",
+    "bounceback-ai.html": "Option 6 source: Astir-family innovation; retains Astir IT Solutions attribution.",
+    "privacy.html": "https://astir.tech/PrivacyPolicy.aspx",
+    "terms.html": "https://astir.tech/TermsAndConditions.aspx",
+    "sitemap.html": "https://astir.tech/"
+  },
+  "notes": [
+    "Design, artwork, and motion use supplied Option 6 repository.",
+    "IT products are described as in development on astir.tech; no product availability is assumed.",
+    "AI is shown as an Astir-family initiative; no separate Technologies AI practice is claimed.",
+    "Job listings are dated snapshots. Application, contact and current LCA links point to astir.tech.",
+    "Recruiting pages summarize company programs, not immigration advice.",
+    "Photos are illustrative, not representations of actual staff or product screens."
+  ]
+}
